@@ -8,6 +8,6 @@
 
 **3. My fork for learning.**
 
-See the link for [make-a-lisp https://github.com/kanaka/mal] actual project.
+See the [link](https://github.com/kanaka/mal) for actual project.
 
 
