@@ -6,8 +6,8 @@
 
 **2. Mal is a learning tool**
 
-**3. My fork for learning.
+**3. My fork for learning.**
 
-See the link for [make-a-lisp processguide] actual project.
+See the link for [make-a-lisp https://github.com/kanaka/mal] actual project.
 
 
